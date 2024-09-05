@@ -1,8 +1,8 @@
 import copy
 import time
 import os
-from operators import *
-from postprocess import build_post_process
+from ocr_src.operators import *
+from ocr_src.postprocess import build_post_process
 import numpy as np
 import onnxruntime as ort
 
