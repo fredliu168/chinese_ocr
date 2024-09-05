@@ -23,6 +23,7 @@ if __name__ == '__main__':
     print(res)
 ```
 
+案例图片：
 ![图片](1.png)
 
 识别结果：
@@ -30,3 +31,6 @@ if __name__ == '__main__':
 ```
 ['ONNX：开放式神经网络交换格式', 'ONNX（OpenNeuralNetworkExchange）是一种开放的格式，用于表示深度学习', '模型。它允许不同框架之间（如PyTorch、TensorFlow、MXNet等）相互转换模型，从', '而提高了模型的互操作性。'] 
 ```
+
+git commit -m "first commit"
+git push -u origin main
